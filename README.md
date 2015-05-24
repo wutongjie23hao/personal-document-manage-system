@@ -1,2 +1,2 @@
 # personal-document-manage-system
-This project is to practice the programming under Qt Creator and C++.
+个人管理系统。This project is to practice the programming under Qt Creator and C++.
